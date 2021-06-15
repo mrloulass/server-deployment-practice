@@ -1,11 +1,11 @@
 # server-deployment-practice
 
-## Deploment
+## Deployment
 
  ### Heroku
 
-  - dev
-  - prod
+  - [server-deploy-dev](https://louis-server-deploy-dev.herokuapp.com/)
+  - [server-deploy-prod](https://louis-server-deploy-prod.herokuapp.com/)
 
 ### Routes
 
